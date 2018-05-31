@@ -1,0 +1,7 @@
+2/3 Host gép IP cím: 192.168.2.121
+2/4 Virtuálig gép MAC: 080027D5A5DD
+2/5 Virtuális gép IP cím: 192.168.2.150
+
+3/5 Ansible verziószám: 2.5.3
+
+Screenshotok mellékelve!
